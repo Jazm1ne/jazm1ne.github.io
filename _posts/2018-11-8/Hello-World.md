@@ -11,9 +11,9 @@ my name is jasmine .....
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 
-# About Me :page_with_curl:
+# About Me 
 ## INTRODUCTION 
-  In present time at *Dallas, Texas* in an Urban city lives an individual named **_Jasmine Garcia_** that has experience with the the *Medical field* and *Information Technology* field. Using her time to learn and specialize to eventually become a neurosurgeon and a **software developer** and programming. Attend to health technology early college high school in pathway of Information Technology at El Centro and Franklin D. Roosevelt high school :school: . Went to Maria Moreno Elementary and Zan Wesley Holmes Middle School near the main streets Hampton Illinois. Took a Web Design course Fall and Spring, also a Web Intermediate Programming course along with a Database class.
+  In present time at *Dallas, Texas* in an Urban city lives an individual named **_Jasmine Garcia_** that has experience with the the *Medical field* and *Information Technology* field. Using her time to learn and specialize to eventually become a neurosurgeon and a **software developer** and programming. Attend to health technology early college high school in pathway of Information Technology at El Centro and Franklin D. Roosevelt high school. Went to Maria Moreno Elementary and Zan Wesley Holmes Middle School near the main streets Hampton Illinois. Took a Web Design course Fall and Spring, also a Web Intermediate Programming course along with a Database class.
 
 
 
@@ -27,30 +27,30 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
  
 - - -
 
-:thought_balloon: The importance of this course is that...
+The importance of this course is that...
  
 ---
 
-`“Intermediate Web Programming class would take with me what has been learned such as install, update, and configure word press, juproal, and more.”` :speech_balloon:
+`“Intermediate Web Programming class would take with me what has been learned such as install, update, and configure word press, juproal, and more.”` 
 
 ***
 
-## WEBSITE FORMATTING :open_file_folder:
+## WEBSITE FORMATTING 
 * Heading 1 or Heading 2
 * **Bold**/*italic*/underline
-* justification :pushpin:
+* justification 
 * ~~strike-through~~
-* order/unorder list :paperclip: 
-* horizontal rules:page_facing_up:
+* order/unorder list 
+* horizontal rules
 * color of copy
-* block quotes :clipboard:
+* block quotes 
 
 ## Class courses
-1. Choir :musical_score:
-2. JROTC :books:
-3. AP Language Composition :notebook: 
-4. Economics :pencil2:
-5. AP Physics :green_book:
+1. Choir 
+2. JROTC 
+3. AP Language Composition 
+4. Economics 
+5. AP Physics 
 6. Intermediate Web Programming
-7. Database :orange_book:
-8. Art Appreciation :art:
+7. Database 
+8. Art Appreciation 
