@@ -11,6 +11,20 @@ description: Web Developer from Dallas, Texas
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+---
+layout: post
+title: Hello World! (Again made me do this)
+---
+
+my name is jasmine .....
+
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+
+
 #
 # Flags below are optional
 #
