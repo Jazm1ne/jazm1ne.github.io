@@ -6,10 +6,10 @@
 name: Jasmine Garcia
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Dallas, Texas  
-1. bad
-2. good
-3. i dont knoe
+- description: Web Developer from Dallas, Texas
+- 1. bad
+- 2. ehhh
+- 3. i dont knoe
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
