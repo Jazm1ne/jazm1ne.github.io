@@ -14,6 +14,8 @@ permalink: /blog/
 ![_config.yml]({{ site.baseurl }}/images/brainelectricalactivity.jpg)
 
 Credits to the atricle in following [link](https://www.scientificamerican.com/article/deep-brain-recordings-may-show-where-unhappiness-lives/) 
+
+
 ****************
 
 ## Earliest Memory 
