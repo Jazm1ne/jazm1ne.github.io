@@ -1,9 +1,9 @@
 ---
 layout: page
-
+title: Blog
 permalink: /blog/
 ---
-![_config.yml]({{ site.baseurl }}/images/blog.png)
+
 ## News
 
 ### Deep-Brain Recordings May Show Where Unhappiness Lives
