@@ -50,4 +50,4 @@ The importance of this course is that...
 
 ### Contact me
 
-[email@domain.com](mailto:2990040@dallasisd.org)
+[2990040@dallasisd.org](mailto:2990040@dallasisd.org)
