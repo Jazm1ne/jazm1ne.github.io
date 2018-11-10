@@ -7,6 +7,7 @@ permalink: /blog/
 ## News
 
 [link to Google!](http://google.com)
+[link to the Article](https://www.scientificamerican.com/article/deep-brain-recordings-may-show-where-unhappiness-lives/)
 
   In present time at *Dallas, Texas* in an Urban city lives an individual named **_Jasmine Garcia_** that has experience with the the *Medical field* and *Information Technology* field. Using her time to learn and specialize to eventually become a neurosurgeon and a **software developer** and programming. Attend to health technology early college high school in pathway of Information Technology at El Centro and Franklin D. Roosevelt high school. Went to Maria Moreno Elementary and Zan Wesley Holmes Middle School near the main streets Hampton Illinois. Took a Web Design course Fall and Spring, also a Web Intermediate Programming course along with a Database class.
 
