@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+
 permalink: /blog/
 ---
 ![_config.yml]({{ site.baseurl }}/images/blog.png)
