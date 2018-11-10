@@ -14,4 +14,4 @@ permalink: /blog/
 ## TAKE EXPERIENCE 
   From those classes skilled gained knowledge with word press, Notepad plus plus, file management and other built websites. In free time listens to music, dances, draws, cleans, or anything that has to do with helping things done around. Interested in Starting a business in Dallas such as maybe a bakery or a choreography teaching routines. Also, went to UNT, Mountain View, SMU, El Centro, and Vermont University.
  
- ![_config.yml]({{ site.baseurl }}/images/me.png)
+ 
