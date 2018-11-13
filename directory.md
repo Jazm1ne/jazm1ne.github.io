@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intermidiate Web Programming
-permalink: /ITSE 2402/
+permalink: /itse 2402/
 ---
 
 # My class mates
