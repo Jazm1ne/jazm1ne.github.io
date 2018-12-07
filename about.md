@@ -13,7 +13,7 @@ permalink: /about/
   <li>HTML</li>
    <li>CSS Design</li>
   <li>Print Layout</li>
-  
+   <li>Video Editing</li>
 </ul>
 
 <h2>Extracurricular Activities</h2>
