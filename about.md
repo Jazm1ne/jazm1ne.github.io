@@ -8,7 +8,7 @@ permalink: /about/
 <h2>Jasmine Garcia</h2>
 
 <h2>Experinces</h2>
-<ul
+<ul>
    <li>Certified in Word</li>
   <li>HTML</li>
    <li>CSS Design</li>
