@@ -9,13 +9,14 @@ permalink: /about/
 
 <h2>Experinces</h2>
 <ul
-    <li>Certified in Word</li>
+   <li>Certified in Word</li>
   <li>HTML</li>
    <li>CSS Design</li>
   <li>Print Layout</li>
   
 </ul>
 
+<h2>Extracurriculum Activities</h2>
 <ul>
   <li>Service Learning</li>
   <li>Cyber Patriot</li>
