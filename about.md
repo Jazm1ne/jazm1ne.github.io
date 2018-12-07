@@ -16,17 +16,20 @@ permalink: /about/
   
 </ul>
 
-<h2>Extracurriculum Activities</h2>
+<h2>Extracurricular Activities</h2>
 <ul>
   <li>Service Learning</li>
   <li>Cyber Patriot</li>
   <li>Drill Team</li>
-  <li>Phi Theta Kappa HOnor Society</li>
+  <li>Phi Theta Kappa Honor Society</li>
   </ul>
 
 <h2>Education</h2>
 <p>Frankiln D. Roosevelt H-TECH</p>
 
+<h2>Interest</h2>
+<li> Photography</li>
+<li> Dance</li>
 ### Contact me
 
 [2990040@dallasisd.org](mailto:2990040@dallasisd.org)
