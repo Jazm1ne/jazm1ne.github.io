@@ -7,7 +7,7 @@ permalink: /about/
 <h1>My Resume</h1>
 <h2>Jasmine Garcia</h2>
 
-<h2>Experinces</h2>
+<h2>Skills</h2>
 <ul>
    <li>Certified in Word</li>
   <li>HTML</li>
