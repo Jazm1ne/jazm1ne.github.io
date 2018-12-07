@@ -30,6 +30,7 @@ permalink: /about/
 <h2>Interest</h2>
 <li>Photography</li>
 <li>Dance</li>
+
 ### Contact me
 
 [2990040@dallasisd.org](mailto:2990040@dallasisd.org)
